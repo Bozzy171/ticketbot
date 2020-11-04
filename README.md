@@ -1,0 +1,2 @@
+# ticketbot
+Dsicord Ticket Bot
